@@ -10,6 +10,6 @@ You don't need to install it as it's available online but if you want to, all yo
 ## How to use it:
 In order for the app to work (or even load) you need to give it permission to use your location to get the local weather data. Then, at the top the you'll be able to see the current temperature as well as the daily high and low temp., how they feel like, and the current wind speed and precipitation. Below that are seven cards for each day of the week which tell the you the day and what the temperature will be like along with an icon showing if it'll be sunny, cloudy, rainy, or a mix of them. After that you'll see the hourly temperature for the whole week along with how it feels like as well as the wind speed and the precipitation.
 ## Credits:
-Web Dev Simplified: https://youtu.be/w0VEOghdMpQ
-Open-Meteo: https://open-meteo.com/
-Netlify: https://app.netlify.com/
+Web Dev Simplified: https://youtu.be/w0VEOghdMpQ<br>
+Open-Meteo: https://open-meteo.com/<br>
+Netlify: https://app.netlify.com/<br>
