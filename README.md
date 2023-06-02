@@ -1,6 +1,6 @@
 # Weather App
 ## What it does:
-The Weather App is a weather forecast app designed to tell the user the current temperature, wind speed and precipitation for the current hour, day as well as week. It's currently available online at *https://weather-app-25sam18.netlify.app/*.
+The Weather App is a fully responsive weather forecast app designed to tell the user the current temperature, wind speed and precipitation for the current hour, day as well as week. It's currently available online at *https://weather-app-25sam18.netlify.app/*.
 ## Technologies used:
 The app was built with Vite and written in JavaScript along with some HTML and CSS. The Open-Meteo API was used to get the weather data and Netlify was used to host it.
 ## Why said technologies:
